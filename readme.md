@@ -37,3 +37,7 @@ git bundle verify /home/darren/.cache/yay/python-kivymd/feb58f6.gitbundle
 git pull /home/darren/.cache/yay/python-kivymd/feb58f6.gitbundle
 git log --oneline
 ```
+
+Others
+* [com.aefyr.sai](https://play.google.com/store/apps/details?id=com.aefyr.sai&hl=en)
+
